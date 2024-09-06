@@ -1,0 +1,14 @@
+C:\Users\Eric\source\repos\GameProjectLab\GameProjectLab\bin\Debug\net6.0\GameProjectLab.exe
+C:\Users\Eric\source\repos\GameProjectLab\GameProjectLab\bin\Debug\net6.0\GameProjectLab.deps.json
+C:\Users\Eric\source\repos\GameProjectLab\GameProjectLab\bin\Debug\net6.0\GameProjectLab.runtimeconfig.json
+C:\Users\Eric\source\repos\GameProjectLab\GameProjectLab\bin\Debug\net6.0\GameProjectLab.dll
+C:\Users\Eric\source\repos\GameProjectLab\GameProjectLab\bin\Debug\net6.0\GameProjectLab.pdb
+C:\Users\Eric\source\repos\GameProjectLab\GameProjectLab\obj\Debug\net6.0\GameProjectLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eric\source\repos\GameProjectLab\GameProjectLab\obj\Debug\net6.0\GameProjectLab.AssemblyInfoInputs.cache
+C:\Users\Eric\source\repos\GameProjectLab\GameProjectLab\obj\Debug\net6.0\GameProjectLab.AssemblyInfo.cs
+C:\Users\Eric\source\repos\GameProjectLab\GameProjectLab\obj\Debug\net6.0\GameProjectLab.csproj.CoreCompileInputs.cache
+C:\Users\Eric\source\repos\GameProjectLab\GameProjectLab\obj\Debug\net6.0\GameProjectLab.dll
+C:\Users\Eric\source\repos\GameProjectLab\GameProjectLab\obj\Debug\net6.0\refint\GameProjectLab.dll
+C:\Users\Eric\source\repos\GameProjectLab\GameProjectLab\obj\Debug\net6.0\GameProjectLab.pdb
+C:\Users\Eric\source\repos\GameProjectLab\GameProjectLab\obj\Debug\net6.0\GameProjectLab.genruntimeconfig.cache
+C:\Users\Eric\source\repos\GameProjectLab\GameProjectLab\obj\Debug\net6.0\ref\GameProjectLab.dll
